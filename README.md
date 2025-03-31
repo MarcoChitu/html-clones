@@ -34,7 +34,21 @@ The core idea is to focus on what **real users see**, not how the HTML is writte
 
 ## 📁 Folder Structure
 
-html-clones/ ├── clones/ │ ├── tier1/ │ ├── tier2/ │ ├── tier3/ │ └── tier4/ ├── utils/ │ ├── loadFiles.js │ ├── extractVisibleText.js │ └── groupSimilarDocs.js ├── index.js ├── package.json └── README.md
+HTML-CLONES/
+├── clones/
+│   ├── tier1/
+│   ├── tier2/
+│   ├── tier3/
+│   └── tier4/
+├── node_modules/
+├── package.json
+├── package-lock.json
+├── index.js                      
+└── utils/                        
+    ├── loadFiles.js             
+    ├── extractVisibleText.js    
+    └── groupSimilarDocs.js      
+
 
 ---
 
